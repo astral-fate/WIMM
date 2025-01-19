@@ -1,5 +1,25 @@
 # WIMM
 
+## Create a new project
+
+## Install dep
+
+<details>
+<Summary> Install dep </Summary>
+  
+```
+npm install web-vitals
+Frontend dependencies
+npm install axios react-router-dom
+
+mkdir server
+cd server
+npm init -y
+npm install express mongoose cors dotenv  
+```
+
+</details>
+
 ##   The structure of the MCV
 
 <details>
@@ -57,8 +77,11 @@ medicine-dashboard/
 
 ## Running the project
 
-### Run the backend
 
+<details>
+<Summary>  Running the project </Summary> 
+
+  ### Run the backend
 ```
 cd medicine-dashboard
 npm start
@@ -70,3 +93,4 @@ npm start
 cd "D:\a wimm\medicine-dashboard"
 npm start
 ```
+</details>
