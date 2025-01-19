@@ -67,6 +67,6 @@ npm start
 ### Run the front
 
 ```
-cd medicine-dashboard
+cd "D:\a wimm\medicine-dashboard"
 npm start
 ```
