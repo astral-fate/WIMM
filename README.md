@@ -57,6 +57,15 @@ medicine-dashboard/
 
 ## Running the project
 
+### Run the backend
+
+```
+cd medicine-dashboard
+npm start
+```
+
+### Run the front
+
 ```
 cd medicine-dashboard
 npm start
